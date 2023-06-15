@@ -1,0 +1,29 @@
+{
+  "name": "billgo-billers-directory",
+  "version": "1.0.0",
+  "description": "BillGo Billers Directory react practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kedarbillgo/billgo-billers-directory.git"
+  },
+  "keywords": [
+    "Testing",
+    "UI",
+    "Automation",
+    "React",
+    "Preact",
+    "Billers Directory",
+    "Billers",
+    "Directory"
+  ],
+  "author": "kedar.kulkarni@billgo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kedarbillgo/billgo-billers-directory/issues"
+  },
+  "homepage": "https://github.com/kedarbillgo/billgo-billers-directory#readme"
+}

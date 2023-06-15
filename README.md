@@ -50,7 +50,7 @@
 
 ## Quickstart:
 
-Read the [getting started guide](https://docs.billgo.com/billpay) for more information on how to use Mantium.
+Read the [getting started guide](https://docs.billgo.com/billpay) for more information on how to use BillGo Billers Directory.
 
 ### 🌱 Developer guide:
 
